@@ -5,7 +5,7 @@ public class YOLO {
 	public static void main(String[] args) {
 
 		System.out.println("Hello");
-		System.out.println("hihihi");
+		System.out.println("I fix it");
 	}
 
 }
